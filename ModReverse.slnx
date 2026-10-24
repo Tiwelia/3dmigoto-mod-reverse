@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ModReverse.App/ModReverse.App.csproj" />
+    <Project Path="src/ModReverse.Cli/ModReverse.Cli.csproj" />
+    <Project Path="src/ModReverse.Core/ModReverse.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ModReverse.Tests/ModReverse.Tests.csproj" />
+  </Folder>
+</Solution>
